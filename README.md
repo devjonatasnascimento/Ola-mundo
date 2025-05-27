@@ -7,3 +7,5 @@ Essa Linha eu adicionei diretamente do site. Dicas do Professor Gustavo Guanabar
 
 Novo teste corigindo o Git
 
+Novo teste de Pull
+
